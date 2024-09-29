@@ -1,5 +1,5 @@
 # Python-Hotel-data-analytics
-he dataset covers up all the recorded hotel booking information. It consists of two kinds of hotels which are resort hotels and city hotels. In the dataset, we have 119,390 rows and 32 columns which gives a different kind of parameters. According to the variables, people can get information about details of booking processes such as lead time, most popular month to travel, deposit type, etc. Unfortunately, there is no price information to analyze the cheapest time to travel or booking. You may find the Hotel Booking data set by clicking here.
+The dataset covers up all the recorded hotel booking information. It consists of two kinds of hotels which are resort hotels and city hotels. In the dataset, we have 119,390 rows and 32 columns which gives a different kind of parameters. According to the variables, people can get information about details of booking processes such as lead time, most popular month to travel, deposit type, etc. Unfortunately, there is no price information to analyze the cheapest time to travel or booking. You may find the Hotel Booking data set by clicking here.
 
 You may find all variables with explanations below:
 
